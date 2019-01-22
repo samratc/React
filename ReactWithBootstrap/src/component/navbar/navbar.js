@@ -13,10 +13,10 @@ export default class NavBarComponent extends Component {
                 <NavLink href="/home">Home</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/login">Login</NavLink>
+                <NavLink href="/Login">Login</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/register">Regiser</NavLink>
+                <NavLink href="/register">Register</NavLink>
               </NavItem>
              </Nav>
             </Navbar>
